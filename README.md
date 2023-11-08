@@ -1,10 +1,7 @@
-Problem Statement:
-A survey was been successfully completed, resulting in a database of 60,000 records related to water sources and quality. The goal is to make sense of this extensive dataset, extract meaningful insights, and address the water crisis in Maji Ndogo.
----
-
 ## Project Summary
-
-This part 1 of the project will focus on analyzing data related to water sources, quality, and pollution to gain insights into various aspects of water services. Below is a summary of the SQL queries and tasks performed in the project:
+A survey was successfully completed, resulting in a database of 60,000 records related to water sources and quality. The goal is to make sense of this extensive dataset, extract meaningful insights, and address the water crisis in Maji Ndogo.
+---
+This first part of the project will focus on analyzing data related to water sources, quality, and pollution to gain insights into various aspects of water services. Below is a summary of the SQL queries and tasks performed in the project:
 
 1. **Listing Tables**:
    - Used `SHOW TABLES` to list all tables in the database.
